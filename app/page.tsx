@@ -113,7 +113,7 @@ const testimonials = [
     name: "Mara Jensen",
     location: "Copenhagen",
     rating: 5,
-    text: "The Arc Floor Lamp transformed my living room. The quality is exceptional and it arrived beautifully packaged. Worth every penny.",
+    text: "The Arc Floor Lamp transformed my living room. The quality is exceptional and it arrived beautifully packaged.",
     product: "Arc Floor Lamp",
     avatar: "https://www.ageist.com/wp-content/uploads/2024/05/IMG_5448-683x1024.jpg",
   },
