@@ -758,7 +758,7 @@ export default function HomePage() {
                     <Star key={s} size={13} className="fill-amber-400 text-amber-400" />
                   ))}
                 </div>
-                <p className="text-sm text-slate-700 leading-relaxed flex-1" style={{ color: "#030d1c", fontSize: "18px" }}>
+                <p className="text-sm text-slate-700 leading-relaxed flex-1" style={{ color: "#030d1c", fontSize: "13px" }}>
                   &ldquo;{t.text}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 pt-2 border-t border-black/5">
