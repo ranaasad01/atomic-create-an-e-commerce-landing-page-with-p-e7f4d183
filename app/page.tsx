@@ -422,7 +422,7 @@ export default function HomePage() {
             >
               <div className="relative w-full aspect-square max-w-[520px] ml-auto">
                 {/* Main image */}
-                <div className="absolute inset-0 rounded-3xl overflow-hidden shadow-[0_8px_32px_rgba(0,0,0,0.12)]" style={{ color: "#01070e", fontSize: "22px" }}>
+                <div className="absolute inset-0 rounded-3xl overflow-hidden shadow-[0_8px_32px_rgba(0,0,0,0.12)]" style={{ color: "#01070e", fontSize: "20px" }}>
                   <img
                     src="https://blog.1800lighting.com/wp-content/uploads/2024/05/4-Arched-Floor-Lamps-1024x1024.jpeg"
                     alt="Arc Floor Lamp in a modern living room"
